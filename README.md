@@ -1,2 +1,5 @@
 # Front-End-Engineer-Challenge
-Frontend Challenge for Hive
+This is my submission for Hive AI's Front End Engineer Challenge in which a reusable component for a single select and multi select dropdown menu is created.
+
+![image](https://github.com/user-attachments/assets/26fbcfd4-ad9c-4d58-aa33-b806bcabb635)
+
